@@ -1,0 +1,54 @@
+/*Selector {
+Property: value;
+}
+color pallete
+#f9989f
+#ffc7c7
+#ffe2e2
+#f6f6f6
+#8785a2
+#3c415e
+
+*/
+
+body {
+  background-color: #f6f6f6;
+  font-family: "verdana",sans-serif;
+}
+
+nav {
+  background-color: #8785a2;
+  font-family: "verdana",sans-serif;
+}
+
+.nmenu {
+background-color:#8785a2;
+list-style: none;
+display: inline-flex;
+color:#f9989f;
+}
+
+h1 {
+color: #3c415e;
+border-width:3px;
+}
+
+h2 {
+color: #3c415e;
+}
+
+hr {
+  border-top: 5px dotted gray;
+  width: 5%;
+}
+
+.legenda {
+  color: #f9989f;
+  font-size: 2vw;
+  font-weight: bold;
+}
+
+.top {
+  background-color: #ffe2e2;
+  padding: 5px 20px;
+}
